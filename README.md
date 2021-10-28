@@ -10,7 +10,7 @@ Modified to better fit our game.
 
 How To run: 
 1. install all the libraries from the Requirements below on a python 2.7 environment. These can be installed using pip install command.
-2. *If you are going to use keras with cntk make sure to change keras.json file and se the backend to be cntk more info can be found here:
+2. *If you are going to use keras with cntk make sure to change keras.json file and set the backend to be cntk more info can be found here:
 https://docs.microsoft.com/en-us/cognitive-toolkit/Using-CNTK-with-Keras
 
 3.once all the libraries are installed run the AI.py and the AI should be up and running 
